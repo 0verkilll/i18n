@@ -1,0 +1,31 @@
+{
+  "greeting": "Hello",
+  "farewell": "Goodbye",
+  "welcome": "Welcome to our application",
+  "error": {
+    "validation": {
+      "required": "This field is required",
+      "email": "Please enter a valid email address",
+      "password": "Password must be at least 8 characters"
+    },
+    "network": {
+      "timeout": "Request timed out. Please try again.",
+      "offline": "You appear to be offline"
+    },
+    "auth": {
+      "unauthorized": "You are not authorized to access this resource",
+      "expired": "Your session has expired"
+    }
+  },
+  "button": {
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit"
+  },
+  "messages": {
+    "success": "Operation completed successfully",
+    "confirm_delete": "Are you sure you want to delete this item?"
+  }
+}

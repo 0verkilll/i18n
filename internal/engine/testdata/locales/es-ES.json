@@ -1,0 +1,31 @@
+{
+  "greeting": "Hola",
+  "farewell": "Adiós",
+  "welcome": "Bienvenido a nuestra aplicación",
+  "error": {
+    "validation": {
+      "required": "Este campo es obligatorio",
+      "email": "Por favor ingrese un correo electrónico válido",
+      "password": "La contraseña debe tener al menos 8 caracteres"
+    },
+    "network": {
+      "timeout": "Tiempo de espera agotado. Por favor, inténtelo de nuevo.",
+      "offline": "Parece que estás desconectado"
+    },
+    "auth": {
+      "unauthorized": "No estás autorizado para acceder a este recurso",
+      "expired": "Tu sesión ha expirado"
+    }
+  },
+  "button": {
+    "submit": "Enviar",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar"
+  },
+  "messages": {
+    "success": "Operación completada exitosamente",
+    "confirm_delete": "¿Estás seguro de que quieres eliminar este elemento?"
+  }
+}

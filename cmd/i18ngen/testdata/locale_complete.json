@@ -1,0 +1,17 @@
+{
+  "Farewell": "Goodbye",
+  "Greeting": "Hello",
+  "error": {
+    "required": "This field is required"
+  },
+  "farewell": "Goodbye",
+  "greeting": "Hello",
+  "item_count": "items",
+  "items_format": "%d %s",
+  "nav": {
+    "home": "Home"
+  },
+  "optional_feature": "yes",
+  "salutation": "Dear",
+  "welcome_user": "Welcome, %s"
+}

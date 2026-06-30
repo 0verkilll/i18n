@@ -1,0 +1,7 @@
+{
+  "hud": {
+    "health": "Health",
+    "score": "Score",
+    "ammo": "Ammo"
+  }
+}

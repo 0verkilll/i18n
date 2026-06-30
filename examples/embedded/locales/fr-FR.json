@@ -1,0 +1,12 @@
+{
+  "app": {
+    "name": "Mon Application Géniale",
+    "description": "Un exemple simple d'utilisation des traductions intégrées",
+    "version": "1.0.0"
+  },
+  "menu": {
+    "home": "Accueil",
+    "about": "À propos",
+    "contact": "Contact"
+  }
+}

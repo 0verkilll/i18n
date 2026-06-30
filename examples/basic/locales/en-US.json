@@ -1,0 +1,22 @@
+{
+  "greeting": "Hello!",
+  "farewell": "Goodbye!",
+  "welcome": "Welcome to our application",
+  "errors": {
+    "validation": {
+      "required": "This field is required",
+      "email": "Please enter a valid email address",
+      "password": "Password must be at least 8 characters"
+    },
+    "network": {
+      "timeout": "Request timed out",
+      "offline": "You are currently offline"
+    }
+  },
+  "actions": {
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "greeting": "Ciao",
+  "farewell": "Arrivederci",
+  "welcome": "Benvenuto nella nostra applicazione",
+  "error": {
+    "validation": {
+      "required": "Questo campo è obbligatorio",
+      "email": "Inserisci un indirizzo e-mail valido",
+      "password": "La password deve contenere almeno 8 caratteri"
+    },
+    "network": {
+      "timeout": "Richiesta scaduta. Per favore riprova.",
+      "offline": "Sembra che tu sia offline"
+    },
+    "auth": {
+      "unauthorized": "Non sei autorizzato ad accedere a questa risorsa",
+      "expired": "La tua sessione è scaduta"
+    }
+  },
+  "button": {
+    "submit": "Invia",
+    "cancel": "Annulla",
+    "save": "Salva",
+    "delete": "Elimina",
+    "edit": "Modifica"
+  },
+  "messages": {
+    "success": "Operazione completata con successo",
+    "confirm_delete": "Sei sicuro di voler eliminare questo elemento?"
+  }
+}

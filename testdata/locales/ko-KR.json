@@ -1,0 +1,31 @@
+{
+  "greeting": "안녕하세요",
+  "farewell": "안녕히 가세요",
+  "welcome": "저희 애플리케이션에 오신 것을 환영합니다",
+  "error": {
+    "validation": {
+      "required": "이 항목은 필수입니다",
+      "email": "유효한 이메일 주소를 입력해 주세요",
+      "password": "비밀번호는 8자 이상이어야 합니다"
+    },
+    "network": {
+      "timeout": "요청 시간이 초과되었습니다. 다시 시도해 주세요.",
+      "offline": "오프라인 상태인 것 같습니다"
+    },
+    "auth": {
+      "unauthorized": "이 리소스에 접근할 권한이 없습니다",
+      "expired": "세션이 만료되었습니다"
+    }
+  },
+  "button": {
+    "submit": "제출",
+    "cancel": "취소",
+    "save": "저장",
+    "delete": "삭제",
+    "edit": "편집"
+  },
+  "messages": {
+    "success": "작업이 성공적으로 완료되었습니다",
+    "confirm_delete": "이 항목을 삭제하시겠습니까?"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "greeting": "你好",
+  "farewell": "再见",
+  "welcome": "欢迎使用我们的应用程序",
+  "error": {
+    "validation": {
+      "required": "此字段为必填项",
+      "email": "请输入有效的电子邮件地址",
+      "password": "密码必须至少包含8个字符"
+    },
+    "network": {
+      "timeout": "请求超时，请重试。",
+      "offline": "您似乎处于离线状态"
+    },
+    "auth": {
+      "unauthorized": "您无权访问此资源",
+      "expired": "您的会话已过期"
+    }
+  },
+  "button": {
+    "submit": "提交",
+    "cancel": "取消",
+    "save": "保存",
+    "delete": "删除",
+    "edit": "编辑"
+  },
+  "messages": {
+    "success": "操作成功完成",
+    "confirm_delete": "您确定要删除此项目吗？"
+  }
+}

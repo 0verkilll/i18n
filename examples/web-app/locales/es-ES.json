@@ -1,0 +1,12 @@
+{
+  "page": {
+    "home": {
+      "title": "Bienvenido a la Demo de i18n",
+      "subtitle": "Internacionalización Hecha Fácil",
+      "description": "Esta es una demostración simple del paquete i18n en una aplicación web. El contenido de esta página se traduce automáticamente según su preferencia de idioma."
+    }
+  },
+  "api": {
+    "greeting": "¡Hola desde la API!"
+  }
+}

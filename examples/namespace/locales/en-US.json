@@ -1,0 +1,16 @@
+{
+  "auth": {
+    "greeting": "Hello from auth",
+    "welcome": "Welcome, %s!",
+    "error": {
+      "unauthorized": "You are not authorized"
+    }
+  },
+  "storage": {
+    "greeting": "Hello from storage",
+    "welcome": "Welcome to storage, %s!",
+    "error": {
+      "not_found": "File not found"
+    }
+  }
+}

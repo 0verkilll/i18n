@@ -1,0 +1,22 @@
+{
+  "greeting": "¡Hola!",
+  "farewell": "¡Adiós!",
+  "welcome": "Bienvenido a nuestra aplicación",
+  "errors": {
+    "validation": {
+      "required": "Este campo es obligatorio",
+      "email": "Por favor ingrese un correo electrónico válido",
+      "password": "La contraseña debe tener al menos 8 caracteres"
+    },
+    "network": {
+      "timeout": "Se agotó el tiempo de espera",
+      "offline": "Actualmente estás desconectado"
+    }
+  },
+  "actions": {
+    "submit": "Enviar",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar"
+  }
+}

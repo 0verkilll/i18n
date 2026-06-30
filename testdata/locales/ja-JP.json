@@ -1,0 +1,31 @@
+{
+  "greeting": "こんにちは",
+  "farewell": "さようなら",
+  "welcome": "アプリケーションへようこそ",
+  "error": {
+    "validation": {
+      "required": "この項目は必須です",
+      "email": "有効なメールアドレスを入力してください",
+      "password": "パスワードは8文字以上である必要があります"
+    },
+    "network": {
+      "timeout": "リクエストがタイムアウトしました。もう一度お試しください。",
+      "offline": "オフラインのようです"
+    },
+    "auth": {
+      "unauthorized": "このリソースへのアクセス権がありません",
+      "expired": "セッションの有効期限が切れました"
+    }
+  },
+  "button": {
+    "submit": "送信",
+    "cancel": "キャンセル",
+    "save": "保存",
+    "delete": "削除",
+    "edit": "編集"
+  },
+  "messages": {
+    "success": "操作が正常に完了しました",
+    "confirm_delete": "このアイテムを削除してもよろしいですか？"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "page": {
+    "home": {
+      "title": "Welcome to i18n Demo",
+      "subtitle": "Internationalization Made Easy",
+      "description": "This is a simple demonstration of the i18n package in a web application. The content on this page is automatically translated based on your language preference."
+    }
+  },
+  "api": {
+    "greeting": "Hello from the API!"
+  }
+}

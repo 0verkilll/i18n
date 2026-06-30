@@ -1,0 +1,25 @@
+# Auto detect text files and normalize line endings
+* text=auto
+
+# Go files must use LF for gofmt compatibility
+*.go text eol=lf
+
+# Shell scripts should use LF
+*.sh text eol=lf
+
+# YAML files should use LF
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# JSON files should use LF
+*.json text eol=lf
+
+# Markdown files should use LF
+*.md text eol=lf
+
+# Keep binary files as-is
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary

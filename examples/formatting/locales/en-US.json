@@ -1,0 +1,9 @@
+{
+  "messages": {
+    "welcome_user": "Welcome back, %s!",
+    "items_found": "Found %d %s in the catalog",
+    "price": "Price: $%.2f",
+    "user_score": "%s scored %d points in %s",
+    "time_remaining": "Time remaining: %d hours and %d minutes"
+  }
+}

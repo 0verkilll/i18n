@@ -1,0 +1,31 @@
+{
+  "greeting": "您好",
+  "farewell": "再見",
+  "welcome": "歡迎使用我們的應用程式",
+  "error": {
+    "validation": {
+      "required": "此欄位為必填",
+      "email": "請輸入有效的電子郵件地址",
+      "password": "密碼必須至少包含8個字元"
+    },
+    "network": {
+      "timeout": "請求逾時，請重試。",
+      "offline": "您似乎處於離線狀態"
+    },
+    "auth": {
+      "unauthorized": "您無權存取此資源",
+      "expired": "您的工作階段已過期"
+    }
+  },
+  "button": {
+    "submit": "提交",
+    "cancel": "取消",
+    "save": "儲存",
+    "delete": "刪除",
+    "edit": "編輯"
+  },
+  "messages": {
+    "success": "操作已成功完成",
+    "confirm_delete": "您確定要刪除此項目嗎？"
+  }
+}

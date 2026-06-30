@@ -1,0 +1,12 @@
+{
+  "app": {
+    "name": "My Awesome App",
+    "description": "A simple example of using embedded translations",
+    "version": "1.0.0"
+  },
+  "menu": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "greeting": "Hello",
+  "farewell": "Goodbye",
+  "error": {
+    "required": "Required"
+  },
+  "deprecated_key": "This key is not in source",
+  "legacy_feature": "Also not in source"
+}
